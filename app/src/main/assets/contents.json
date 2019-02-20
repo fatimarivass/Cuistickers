@@ -1,0 +1,53 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Cui Cui",
+      "publisher": "B&G",
+      "tray_image_file": "icon.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "cuyo (1).webp",
+
+        },
+        {
+          "image_file": "cuyo (2).webp",
+
+        },
+        {
+          "image_file": "cuyo (3).webp",
+
+        },
+        {
+          "image_file": "cuyo (4).webp",
+
+        },
+        {
+          "image_file": "cuyo (5).webp",
+
+        },
+        {
+          "image_file": "cuyo (6).webp",
+
+        },
+        {
+          "image_file": "cuyo (7).webp",
+
+        },
+        {
+          "image_file": "cuyo (8).webp",
+
+        },
+        {
+
+        }
+      ]
+    }
+  ]
+}
